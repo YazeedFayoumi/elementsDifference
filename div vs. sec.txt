@@ -1,0 +1,8 @@
+div vs. section: div is a generic container element that does not carry any semantic meaning. It is mostly used for grouping related elements together and applying styling to them via CSS. section , on the other hand, is a semantic element that represents a specific section of a web page with a distinct topic or groups of related content within a document (thematic content).
+ 
+
+but they share being a block-level element used for structuring and organizing content on a web page. 
+
+article vs. p
+
+article is used for self-contained, distributable content like articles or blog posts, while p is used to define paragraphs of text within a larger document or section. Both elements play important roles in structuring and presenting textual content on a web page.
